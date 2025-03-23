@@ -32,7 +32,7 @@ const Skills = () => {
     'Oracle Database',
     'RESTful API',
     'Flutter/Dart',
-    'Java/Object Oriented Programming',
+    'Java/OOP',
     'Problem Solving',
     'Node.js/Express'
   ];
