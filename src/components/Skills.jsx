@@ -28,12 +28,13 @@ const Skills = () => {
   const skills = [
     'Javascript',
     'PL/SQL',
-    'Agile/Scrum',
+    'Jira/Agile/Scrum',
     'Oracle Database',
     'RESTful API',
     'Flutter/Dart',
-    'Java',
-    'Problem Solving'
+    'Java/Object Oriented Programming',
+    'Problem Solving',
+    'Node.js/Express'
   ];
 
   return (
